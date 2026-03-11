@@ -94,7 +94,7 @@ Installation Guide
 
 Clone the repository:
 
-git clone https://github.com/yourusername/fraud-detection-system.git
+git clone https://github.com/Great-obi-10/fraud-detection-system.git
 
 Navigate to the project folder:
 
@@ -234,4 +234,4 @@ Creating a web dashboard for fraud monitoring
 Author
 
 Great Obi
-Cybersecurity Engineer | Cloud Security Associate | Video Editor
+CYBERSECURITY ENGINEER | ML/AI ENGINEER
