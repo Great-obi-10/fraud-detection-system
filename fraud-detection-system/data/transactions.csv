@@ -1,0 +1,6 @@
+amount,time,merchant,location,fraud
+100,1,Amazon,NY,0
+250,2,eBay,CA,0
+500,3,Target,TX,1
+50,4,Walmart,FL,0
+300,5,BestBuy,NY,1
